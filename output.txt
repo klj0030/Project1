@@ -1,0 +1,10 @@
+Store Management System
+Customer ID: 140
+Customer Name: Kahlil Jackson 
+Product ID: 100
+Product Name: iPhone 11 Pro Max
+Purchase ID: 1
+Cost: 1099.0
+Tax: +98.91
+Total Cost: 1197.91
+End of Receipt 
